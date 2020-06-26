@@ -1,0 +1,6 @@
+AB SEB bankas:Gedimino Ave. 12, LT-01103 Vilnius:CBVILT2XXXX:70440
+AB DNB bankas:J.Basanaviciaus Str. 26, LT-03601 Vilnius:AGBLLT2XXXX:40100
+Akcinė bendrovė Šiaulių bankas:Tilzes Str. 149, LT-76348 Siauliai:CBSBLT26XXX:71800
+Citadele Bank:K.Kalinausko Str. 13, LT-03107 Vilnius:INDULT2XXXX:72900
+"Swedbank", AB:Konstitucijos Ave. 20A, LT-03502 Vilnius:HABALT22XXX:73000
+UAB Medicinos bankas:Pamenkalnio Str. 40, LT-01114 Vilnius:MDBALT22XXX:72300

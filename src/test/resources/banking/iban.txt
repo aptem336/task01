@@ -1,0 +1,68 @@
+Albania:ALkk bbbs sssx cccc cccc cccc cccc
+Andorra:ADkk bbbb ssss cccc cccc cccc
+Austria:ATkk bbbb bccc cccc cccc
+Azerbaijan:AZkk bbbb cccc cccc cccc cccc cccc
+Bahrain:BHkk bbbb cccc cccc cccc cc
+Belgium:BEkk bbbc cccc ccxx
+Bosnia and Herzegovina:BAkk bbbs sscc cccc ccxx
+Brazil:BRkk bbbb bbbb ssss sccc cccc ccct n
+Bulgaria:BGkk bbbb ssss ddcc cccc cc
+Costa Rica:CRkk bbbc cccc cccc cccc c
+Croatia:HRkk bbbb bbbc cccc cccc c
+Cyprus:CYkk bbbs ssss cccc cccc cccc cccc
+Czech Republic:CZkk bbbb ssss sscc cccc cccc
+Denmark:DKkk bbbb cccc cccc cc
+Dominican Republic:DOkk bbbb cccc cccc cccc cccc cccc
+East Timor:TLkk bbbc cccc cccc cccc cxx
+Estonia:EEkk bbss cccc cccc cccx
+Faroe Islands:FOkk bbbb cccc cccc cx
+Finland:FIkk bbbb bbcc cccc cx
+France:FRkk bbbb bggg ggcc cccc cccc cxx
+Georgia:GEkk bbcc cccc cccc cccc cc
+Germany:DEkk bbbb bbbb cccc cccc cc
+Gibraltar:GIkk bbbb cccc cccc cccc ccc
+Greece:GRkk bbbs sssc cccc cccc cccc ccc
+Greenland:GLkk bbbb cccc cccc cc
+Guatemala:GTkk bbbb mmtt cccc cccc cccc cccc
+Hungary:HUkk bbbs sssk cccc cccc cccc cccx
+Iceland:ISkk bbbb sscc cccc iiii iiii ii
+Ireland:IEkk aaaa bbbb bbcc cccc cc
+Israel:ILkk bbbn nncc cccc cccc ccc
+Italy:ITkk xaaa aabb bbbc cccc cccc ccc
+Jordan:JOkk bbbb nnnn cccc cccc cccc cccc cc
+Kazakhstan:KZkk bbbc cccc cccc cccc
+Kosovo:XKkk bbbb cccc cccc cccc
+Kuwait:KWkk bbbb cccc cccc cccc cccc cccc cc
+Latvia:LVkk bbbb cccc cccc cccc c
+Lebanon:LBkk bbbb cccc cccc cccc cccc cccc
+Liechtenstein:LIkk bbbb bccc cccc cccc c
+Lithuania:LTkk bbbb bccc cccc cccc
+Luxembourg:LUkk bbbc cccc cccc cccc
+Macedonia:MKkk bbbc cccc cccc cxx
+Malta:MTkk bbbb ssss sccc cccc cccc cccc ccc
+Mauritania:MRkk bbbb bsss sscc cccc cccc cxx
+Mauritius:MUkk bbbb bbss cccc cccc cccc 000d dd
+Monaco:MCkk bbbb bsss sscc cccc cccc cxx
+Moldova:MDkk bbcc cccc cccc cccc cccc
+Montenegro:MEkk bbbc cccc cccc cccc xx
+Netherlands:NLkk bbbb cccc cccc cc
+Norway:NOkk bbbb cccc ccx
+Pakistan:PKkk bbbb cccc cccc cccc cccc
+Palestinian territories:PSkk bbbb xxxx xxxx xccc cccc cccc c
+Poland:PLkk bbbs sssx cccc cccc cccc cccc
+Portugal:PTkk bbbb ssss cccc cccc cccx x
+Qatar:QAkk bbbb cccc cccc cccc cccc cccc c
+Romania:ROkk bbbb cccc cccc cccc cccc
+San Marino:SMkk xaaa aabb bbbc cccc cccc ccc
+Saudi Arabia:SAkk bbcc cccc cccc cccc cccc
+Serbia:RSkk bbbc cccc cccc cccc xx
+Slovakia:SKkk bbbb ssss sscc cccc cccc
+Slovenia:SIkk bbss sccc cccc cxx
+Spain:ESkk bbbb gggg xxcc cccc cccc
+Sweden:SEkk bbbc cccc cccc cccc cccc
+Switzerland:CHkk bbbb bccc cccc cccc c
+Tunisia:TNkk bbss sccc cccc cccc cccc
+Turkey:TRkk bbbb bxcc cccc cccc cccc cc
+United Arab Emirates:AEkk bbbc cccc cccc cccc ccc
+United Kingdom:GBkk bbbb ssss sscc cccc cc
+Virgin Islands, British:VGkk bbbb cccc cccc cccc cccc
